@@ -8,9 +8,8 @@ Este programa ensina como se tornar um engenheiro de aprendizado de máquina e a
 - Kaggle
 
 ## Projetos:
-Este projeto apresenta um desafio que desenvolvi no curso da Udemy. 
-
-### [Titanic Survival Exploration] (https://github.com/Rmagalhaes77/Analise_explora-o_Sobrevivencia-Titanic.git)
+Este projeto apresenta um desafio que desenvolvi no curso da Udemy.
+### [Titanic Survival Exploration] (https://github.com/Rmagalhaes77/Analise_exploracao_Sobrevivencia-Titanic.git)    
 
 **Conceitos básicos de Machine Learning e Ciência de Dados**
 
